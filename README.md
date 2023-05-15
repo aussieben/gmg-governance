@@ -1,8 +1,8 @@
-# GMG Open Mining Format Governance and Operations Guide
+# GMG Data & Interoperability Working Group Governance and Operations Guide
 
-This repository contains proposes documentation relating to the operation and management of the Open Mining Format project.
+This repository contains proposes documentation relating to the operation and management of the GMG Data & Interoperability Working Group and its projects.
 
-The intent is to create a framework to manage OMF in an open and transparent environment that invites input from all.
+The intent is to create a framework to manage the working group and its projects in an open and transparent environment that invites input from all.
 
 ## Contribute
 
